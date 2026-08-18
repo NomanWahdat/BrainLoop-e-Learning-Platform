@@ -415,9 +415,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👨‍💼 Contact & Support
 
-- **Email**: your-email@example.com
+- **Email**: nomanwahdat@gmail.com 
 - **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/noman-wahdat/))
 - **Issues**: [GitHub Issues](https://github.com/yourusername/brainloop/issues)
 
 ---

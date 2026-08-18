@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+.venv_old/
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Databases and runtime files
+*.sqlite3
+*.sqlite3-journal
+*.log
+logs/
+
+# JavaScript dependencies and build output
+node_modules/
+frontend/node_modules/
+frontend/.yarn/
+dist/
+dist-ssr/
+build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# User-uploaded and generated backend files
+backend/media/
+backend/staticfiles/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.swp
+*.user
+
+# Local placeholders and presentation artifacts
+path/
+*.docx
+*.JPG
+*.jpeg
+*.jpg
+
+# Project preparation notes and generated reports
+/Architecture_Diagram_Usage_Guide.md
+/BrainLoop_FYP_Poster_Content.md
+/FIX_COMPLETION_SUMMARY.md
+/FYP_EXHIBITION_GUIDE.md
+/MASTER_PREPARATION_SUMMARY.md
+/Poster_Setup_Instructions.md
+/PROJECT_AUDIT_REPORT.md
+/PROJECT_VISUAL_SUMMARY.md
+/START_HERE.md
+/THESIS_WRITING_GUIDE.md
+/convert_poster_md_to_docx.py
+
+# Local test and audit scripts
+/test_*.py
